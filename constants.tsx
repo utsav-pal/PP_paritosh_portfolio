@@ -103,7 +103,7 @@ export const EDUCATION_DATA: EducationItem[] = [
 export const SKILLS_DATA: SkillCategory[] = [
   {
     title: "Programming Languages",
-    skills: ["Java", "C", "Python", "SQL (MySQL)", "Assembly (8085,8086,8051)", "Verilog"]
+    skills: ["Java", "C", "PyPy", "SQL (MySQL)", "Assembly (8085,8086,8051)", "Verilog"]
   },
   {
     title: "Technical Skills",
